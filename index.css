@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+body{
+    font-family: "Lexend", serif;
+    color: #141314; 
+    background-color:#e1f5f7;
+    font-weight: 500; 
+}
+
+header{
+    background: linear-gradient(to right, #f2c641, #f36cf5); 
+}
+
+main {
+    text-align: center;
+}
+#frase-de-efeito {
+    color: #4e004f;
+    font-weight: 600;
+    font-size: 18px; 
+    letter-spacing: 1px;
+    text-shadow: 8px, 8px, 8px, #2d012e; 
+}
